@@ -1,6 +1,6 @@
 <p align="center">
   <h2>Tech Stack:</h2>
-  <div>
+  <div >
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -19,14 +19,13 @@
 </p>
 
 ---
-
 <p align="center">
   <h2>GitHub Stats:</h2>
 </p>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr align="center">
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=github-dark-blue&hide_border=true&card_width=495" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=github-dark-blue&hide_border=true&card_width=495" alt="GitHub Streak" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=github-dark-blue&hide_border=true&langs_count=8" alt="Top Languages" />
