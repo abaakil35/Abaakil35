@@ -1,6 +1,6 @@
 <p align="center">
   <h2>Tech Stack:</h2>
-  <div >
+  <div align="center" >
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -29,7 +29,8 @@
 <img src="https://streak-stats.demolab.com?user=abaakil35&theme=dark&hide_border=true&ring=FF4500&fire=FFA500&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FF6347&sideLabels=FF8C00&dates=FFA07A" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaakil35&layout=compact&theme=github-dark-blue&hide_border=true&langs_count=8" alt="Top Languages" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaakil35&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
     </td>
   </tr>
 </table>
