@@ -25,10 +25,10 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr align="center">
     <td>
-      <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=github-dark-blue&hide_border=true&card_width=495" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=abaakil35&theme=github-dark-blue&hide_border=true&card_width=495" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=github-dark-blue&hide_border=true&langs_count=8" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaakil35&layout=compact&theme=github-dark-blue&hide_border=true&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
