@@ -4,16 +4,16 @@ I'm a passionate Full-Stack Developer with experience in React, Node.js, Laravel
 
 💻 What I do
 
-Frontend development with React, TailwindCSS, Redux, and ES
-Backend development with Node.js (Express) & Laravel
-Database design with MongoDB & MySQL/PostgreSQL
-API creation and integration
-Deploying applications on cloud platforms (AWS, Azure)
+ - Frontend development with React, TailwindCSS, Redux, and ES
+ - Backend development with Node.js (Express) & Laravel
+ - Database design with MongoDB & MySQL/PostgreSQL
+ - API creation and integration
+ - Deploying applications on cloud platforms (AWS, Azure)
 
 🌱 Currently learning
 
-Advanced full-stack patterns
-Optimizing app performance and scalability
+ - Advanced full-stack patterns
+ - Optimizing app performance and scalability
 
 ⚡ Fun fact
 
