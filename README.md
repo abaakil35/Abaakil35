@@ -1,26 +1,22 @@
-Hi there 👋, I'm Ayoub
+👋 Hi there, I'm Ayoub
 
 I'm a passionate Full-Stack Developer with experience in React, Node.js, Laravel, and MongoDB/MySQL. I love building scalable web applications and exploring modern technologies.
 
-💻 What I do:
+💻 What I do
 
-Frontend development with React, TailwindCSS, Redux, and ES6
-
+Frontend development with React, TailwindCSS, Redux, and ES
 Backend development with Node.js (Express) & Laravel
-
 Database design with MongoDB & MySQL/PostgreSQL
-
 API creation and integration
-
 Deploying applications on cloud platforms (AWS, Azure)
 
-🌱 Currently learning:
+🌱 Currently learning
 
 Advanced full-stack patterns
-
 Optimizing app performance and scalability
 
-⚡ Fun fact:
+⚡ Fun fact
+
 I love combining my tech skills with creativity to build projects that solve real-world problems.
 
 ---
